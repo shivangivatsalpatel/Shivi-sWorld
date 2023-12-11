@@ -20,13 +20,13 @@
 }
 .roshivi{
     display: grid;
-    
+    margin-top: 100px;
     text-align: center;
    
 }
 .shivi{
     color:#4e4d77d8;
-    font-family:"Sacramento", cursive;
+    font-family: 'Sacramento', cursive;
     font-size: 150px;
     font-weight: bolder;
     height: 200px;

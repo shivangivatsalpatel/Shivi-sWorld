@@ -1,0 +1,32 @@
+#e8d6f1;
+'Dancing Script', cursive;
+<svg class="svgheader " width="150px" height="70px"><use xlink:href="#bootstrap"></use></svg> 
+shivi{
+    font-family:"Sacramento", cursive;
+    font-size: 150px;
+    font-weight: bolder;
+    color:#4e4d77d8;
+    height: 200px;
+    margin-top: 80px;
+}
+.pro{
+    font-family: 'Prompt', sans-serif;
+    color:#4e4d77d8;
+    font-size: 3rem;
+    height: 50px;
+}
+
+grid-area: 2 / 2 / 5 / 3;
+
+ grid-area: 2 / 3 / 5 / 4;
+
+ #i9{
+   display: flex;
+   margin: 0%;
+   padding: 0%;
+   
+}
+https://github.com/shivangivatsalpatel/Shivi-sWorld
+
+
+ https://shivangivatsalpatel.github.io/Shivi-sWorld/
